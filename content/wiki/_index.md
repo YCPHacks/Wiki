@@ -1,5 +1,4 @@
-  bnl;
-  +++
++++
 title = 'Wiki'
 date = 2024-02-28T00:45:03-05:00
 disableToc=true
@@ -22,7 +21,7 @@ If you would like to follow the exact directions to install feel free to go here
 
 https://gohugo.io/installation/windows/
 
-Otherwise follow these instructions:
+Otherwise, follow these instructions:
 
 Go here and install GO
 
@@ -56,7 +55,7 @@ To contribute to the wiki, navigate to "content/wiki/_index.md" to view the wiki
 
 ```
 Dakota
-Bryce
+Paul
 ```
 
 After adding your name to the block, open the Webstorm terminal in the bottom left and run the command 
