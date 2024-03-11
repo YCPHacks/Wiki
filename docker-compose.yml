@@ -5,7 +5,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: dmessner1194/wiki
+    image: ycphacks/wiki
     container_name: wiki
     ports:
       - "1313:1313"
