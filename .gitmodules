@@ -1,0 +1,6 @@
+[submodule "wiki/themes/hugo-theme-bootstrap"]
+	path = wiki/themes/hugo-theme-bootstrap
+	url = https://github.com/razonyang/hugo-theme-bootstrap-skeleton
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
