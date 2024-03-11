@@ -56,6 +56,7 @@ To contribute to the wiki, navigate to "content/wiki/_index.md" to view the wiki
 ```
 Dakota
 Paul
+Bryce
 ```
 
 After adding your name to the block, open the Webstorm terminal in the bottom left and run the command 
