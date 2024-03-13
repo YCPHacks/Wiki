@@ -78,4 +78,6 @@ This command compiles your edits and generates html and css to accompany your ad
 
 Finally, on the left, hit the commit tab and push all of your changes. A pop up will appear telling there are errors, we are programmers and don't write errors so push it anyway.
 
-test :(
+Go here to see how to manually restart the server
+
+[Wiki Commits](/wiki/wiki_commits)
