@@ -66,7 +66,6 @@ To contribute to the wiki, navigate to "content/wiki/_index.md" to view the wiki
 ```
 Dakota
 Bryce
-Paul
 ```
 
 After adding your name to the block, open the Webstorm terminal in the bottom left and run the command 
@@ -79,6 +78,4 @@ This command compiles your edits and generates html and css to accompany your ad
 
 Finally, on the left, hit the commit tab and push all of your changes. A pop up will appear telling there are errors, we are programmers and don't write errors so push it anyway.
 
-Visit this page to see how to further push your commits along
-
-[Wiki Commits](/wiki/wiki_commits)
+test :(
