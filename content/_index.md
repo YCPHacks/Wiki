@@ -9,7 +9,7 @@ PAGES
 
 [Digital Ocean](/post)
 
-[docker](/docker)
+[Docker](/docker)
 
 
 
