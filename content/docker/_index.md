@@ -142,3 +142,15 @@ Our droplet currently has a firewall, so you must be sure to enable access to th
 ![img_5.png](img_5.png)
 ![img_7.png](img_7.png)
 Make sure to scroll up to the inbound section as it initially opens this tab in the outbound section.
+
+# Making Changes
+If you make changes and need to update the server, simply rerun the push command
+```
+docker push REPONAME
+```
+Than go inside the droplet console again in the necessary directory and run these commands
+```
+docker compose down
+docker compose pull
+docker compose up -d
+```
