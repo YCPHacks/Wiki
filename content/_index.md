@@ -9,6 +9,10 @@ PAGES
 
 [Digital Ocean](/post)
 
+[Auth0](/Auth0)
+
+[Insomia](/insomnia)
+
 [Docker](/docker)
 
 
