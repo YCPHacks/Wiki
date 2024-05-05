@@ -5,4 +5,4 @@ disableToc=true
 +++
 # Startup For YCP Hacks
 
-[MySQL](/MySQL)
+[Wiki Commits](/startup/MySQL)
