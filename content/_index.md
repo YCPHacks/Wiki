@@ -5,6 +5,8 @@ disableToc=true
 +++
 PAGES
 
+[Startup](/startup)
+
 [Wiki](/wiki)
 
 [Digital Ocean](/post)
