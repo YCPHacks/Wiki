@@ -6,3 +6,5 @@ disableToc=true
 # Startup For YCP Hacks
 
 [MySQL](/startup/mysql)
+
+[NPM](/startup/npm)
