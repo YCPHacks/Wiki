@@ -29,3 +29,6 @@ After connecting to the database you should be met with this screen.
 
 ![img_4.png](img_4.png)
 Hitting the "Schemas" button on the middle left will allow you to view all of the schemas used in the website.
+
+For information on how to create your own schemas and queries, go here.
+[Schemas](/startup/mysql/schemas)
