@@ -11,7 +11,7 @@ PAGES
 
 [Digital Ocean](/post)
 
-[Auth0](/auth0)
+[Auth0](/auth)
 
 [Insomia](/insomnia)
 
