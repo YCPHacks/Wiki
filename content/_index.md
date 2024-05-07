@@ -13,8 +13,6 @@ PAGES
 
 [Auth0](/auth)
 
-[Insomia](/insomnia)
-
 [Docker](/docker)
 
 
