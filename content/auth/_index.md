@@ -29,6 +29,8 @@ This is where you can see all the users who have access and also what roles they
 
 Roles allow for role based views such as only organizers being able to check out items (For the time being).
 
+# Actions
+
 ![img_4.png](img_4.png)
 
 Actions create and view different workflows set up. Currently we have a login workflow that allows users to login via different modes. 
