@@ -31,5 +31,14 @@ The next three "projects" is the website itself split up into 3 parts.
 
 Each are set up the same way so we will look at the Scheduled Message Manager as an example.
 
-This is a test
+![img_4.png](img_4.png)
+
+If you click into Schedule Message Manager you will see these three apps, that is the project. Each one has its own Github Repo that they are being pulled from. 
+
+![img_5.png](img_5.png)
+Unfortunatly we did not get a single application with all the plugins working so to access the website, you click this second field to take you to the URL. This is true for all Front-end apps. 
+
+![img_6.png](img_6.png)
+Clicking into settings allows you to view the most important aspects like which Repo the app is pulling from or the environmental variables.
+
 
